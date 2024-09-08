@@ -1,0 +1,38 @@
+[
+  {
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "hashed_password_here",
+    "phoneNumber": "+1234567890",
+    "address": "123 Main Street",
+    "imageProfile": "profile_image_url_here",
+    "role": "adminSeller",
+    "voucherCode": "IT01",
+    "createdAt": "2023-08-04T12:34:56Z",
+    "updatedAt": "2023-08-04T12:34:56Z"
+  },
+  {
+    "fullName": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "hashed_password_here",
+    "phoneNumber": "+9876543210",
+    "address": "456 Park Avenue",
+    "imageProfile": "profile_image_url_here",
+    "role": "adminSeller",
+    "voucherCode": "MS01",
+    "createdAt": "2023-08-04T12:34:56Z",
+    "updatedAt": "2023-08-04T12:34:56Z"
+  },
+  {
+    "fullName": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "password": "hashed_password_here",
+    "phoneNumber": "+1112223333",
+    "address": "789 Oak Road",
+    "imageProfile": "profile_image_url_here",
+    "role": "adminSeller",
+    "voucherCode": "DM01",
+    "createdAt": "2023-08-04T12:34:56Z",
+    "updatedAt": "2023-08-04T12:34:56Z"
+  }
+]

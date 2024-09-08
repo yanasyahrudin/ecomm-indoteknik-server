@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Indo Riau",
+      "address": "123 Main Street",
+      "phoneNumber": "555-1234",
+      "paymentGatewayId": 101,
+      "createdAt": "2023-07-31T00:00:00Z",
+      "updatedAt": "2023-07-31T00:00:00Z"
+    },
+    {
+      "name": "Juvindo",
+      "address": "456 Oak Avenue",
+      "phoneNumber": "555-5678",
+      "paymentGatewayId": 102,
+      "createdAt": "2023-07-31T00:00:00Z",
+      "updatedAt": "2023-07-31T00:00:00Z"
+    },
+    {
+      "name": "Itech",
+      "address": "789 Elm Road",
+      "phoneNumber": "555-9876",
+      "paymentGatewayId": 103,
+      "createdAt": "2023-07-31T00:00:00Z",
+      "updatedAt": "2023-07-31T00:00:00Z"
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+    {
+        "fullName": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "hashedpassword1",
+        "role": "warehouseAdmin",
+        "createdAt": "2023-07-31T12:00:00Z",
+        "updatedAt": "2023-07-31T12:00:00Z"
+    },
+    {
+        "fullName": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "hashedpassword2",
+        "role": "warehouseAdmin",
+        "createdAt": "2023-07-31T12:00:00Z",
+        "updatedAt": "2023-07-31T12:00:00Z"
+    },
+    {
+        "fullName": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "password": "hashedpassword3",
+        "role": "warehouseAdmin",
+        "createdAt": "2023-07-31T12:00:00Z",
+        "updatedAt": "2023-07-31T12:00:00Z"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+      "userId": 1,
+      "phoneNumber": "081234567890",
+      "gender": "Male",
+      "address": "Jl. Contoh No. 123",
+      "postalCode": 12345,
+      "createdAt": "2023-07-30T12:00:00Z",
+      "updatedAt": "2023-07-30T12:00:00Z"
+    },
+    {
+      "userId": 2,
+      "phoneNumber": "087654321098",
+      "gender": "Female",
+      "address": "Jl. Sebuah Contoh No. 456",
+      "postalCode": 54321,
+      "createdAt": "2023-07-30T13:30:00Z",
+      "updatedAt": "2023-07-30T13:30:00Z"
+    },
+    {
+      "userId": 3,
+      "phoneNumber": "089876543210",
+      "gender": "Male",
+      "address": "Jl. Contoh Lain No. 789",
+      "postalCode": 98765,
+      "createdAt": "2023-07-30T15:15:00Z",
+      "updatedAt": "2023-07-30T15:15:00Z"
+    }
+  ]
+  

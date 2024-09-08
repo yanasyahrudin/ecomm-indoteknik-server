@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Type 1",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "name": "Type 2",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "name": "Type 3",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  }
+]

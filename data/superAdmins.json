@@ -1,0 +1,36 @@
+[
+    {
+      "fullName": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "phoneNumber": "1234567890",
+      "address": "123 Main Street, City, Country",
+      "imageProfile": "image_url_1",
+      "role": "superAdmin",
+      "createdAt": "2023-07-14T00:00:00Z",
+      "updatedAt": "2023-07-14T00:00:00Z"
+    },
+    {
+      "fullName": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "password456",
+      "phoneNumber": "0987654321",
+      "address": "456 Park Avenue, City, Country",
+      "imageProfile": "image_url_2",
+      "role": "superAdmin",
+      "createdAt": "2023-07-14T00:00:00Z",
+      "updatedAt": "2023-07-14T00:00:00Z"
+    },
+    {
+      "fullName": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "password": "password789",
+      "phoneNumber": "5555555555",
+      "address": "789 Elm Street, City, Country",
+      "imageProfile": "image_url_3",
+      "role": "superAdmin",
+      "createdAt": "2023-07-14T00:00:00Z",
+      "updatedAt": "2023-07-14T00:00:00Z"
+    }
+  ]
+  
