@@ -1,38 +1,142 @@
 [
     {
+        "id": 1,
+        "name": "Fuel Injection Pump",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721447938/cp-indoteknik-v3/productsFuelInjectionPump/in-line/Pump_Assy2_l2cu81.png",
+        "createdAt": "2023-07-14T00:00:00Z",
+        "updatedAt": "2023-07-14T00:00:00Z"
+    },
+    {
+        "id": 2,
+        "name": "Injector",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1721809159/cp-indoteknik-v3/productsInjetcor/injector_assy_ujqunb.png",
+        "createdAt": "2023-07-14T00:00:00Z",
+        "updatedAt": "2023-07-14T00:00:00Z"
+    },
+    {
+        "id": 3,
+        "name": "Supply Pump",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1721810813/cp-indoteknik-v3/products/supply_Pump_assy_w4li42.png",
+        "createdAt": "2023-07-14T00:00:00Z",
+        "updatedAt": "2023-07-14T00:00:00Z"
+    },
+    {
+        "id": 4,
         "name": "Nozzle",
-        "image": "image_url_1",
-        "createdAt": "2023-07-14T00:00:00Z",
-        "updatedAt": "2023-07-14T00:00:00Z"
-    },
-    {
-        "name": "Delivery Valve",
-        "image": "image_url_2",
-        "createdAt": "2023-07-14T00:00:00Z",
-        "updatedAt": "2023-07-14T00:00:00Z"
-    },
-    {
-        "name": "Element",
-        "image": "image_url_3",
-        "createdAt": "2023-07-14T00:00:00Z",
-        "updatedAt": "2023-07-14T00:00:00Z"
-    },
-    {
-        "name": "VE Pump",
-        "image": "image_url_4",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721880467/cp-indoteknik-v3/productsNozzle/nozzle_assy_DSC_0166b-removebg-preview_ryuzfm.png",
         "createdAt": "2023-08-15T00:00:00Z",
         "updatedAt": "2023-08-15T00:00:00Z"
     },
     {
-        "name": "VE Pump Parts",
-        "image": "image_url_5",
+        "id": 5,
+        "name": "Eui",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721701783/cp-indoteknik-v3/productsEUI/eui_zy8io5.png",
         "createdAt": "2023-08-15T00:00:00Z",
         "updatedAt": "2023-08-15T00:00:00Z"
     },
     {
-        "name": "Head Rotor",
-        "image": "image_url_6",
+        "id": 6,
+        "name": "Unit Pump",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721702361/cp-indoteknik-v3/productsEUI/unit_pump_njzr3b.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 7,
+        "name": "Distributor Pump",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721888185/cp-indoteknik-v3/productsDistributorPump/CIMG4447-removebg-preview_pzeimm.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 8,
+        "name": "Battery",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1721269469/cp-indoteknik-v3/productsBattery/2f3d41a4e93a14fbfa6f0e7fd6d5a15f_copy1_tovbam.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 9,
+        "name": "Brake",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1723104827/cp-indoteknik-v3/productsBrake/brake_disc-removebg-preview_efrtrq.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 10,
+        "name": "Bulb and Lighting",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1723111451/cp-indoteknik-v3/productsBulbLighting/all_weather_plus-removebg-preview_gywnpv.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 11,
+        "name": "Filter",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721618593/cp-indoteknik-v3/productsFilter/air_filter-removebg-preview_wvyv8p.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 12,
+        "name": "Gasoline System Category",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1722334525/cp-indoteknik-v3/productsGasolineSystem/DSC_0337_copy_g5u04i.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 13,
+        "name": "Horn",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1723107502/cp-indoteknik-v3/productsHorn/Bosch-Europa-Car-Horn_4-removebg-preview_qd0xtz.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 14,
+        "name": "Relay",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721619185/cp-indoteknik-v3/productsRelay/Bosch-4-pin-relay-768x513_rthrg1.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 15,
+        "name": "Spark Plug",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1723104394/cp-indoteknik-v3/productsSparkPlug/double_iridium-removebg-preview_v0qzj9.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 16,
+        "name": "Wiper",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1723168085/cp-indoteknik-v3/productsWiper/advantage-removebg-preview_wtybal.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 17,
+        "name": "ECU",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721376982/cp-indoteknik-v3/productsEcu/20190328_145254-removebg-preview_jgrz1x.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 18,
+        "name": "Sensor",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721363673/cp-indoteknik-v3/productsSensor/DSC_0747-removebg-preview_nbltym.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 19,
+        "name": "Starter and Alternator",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721375650/cp-indoteknik-v3/productsStarterAlternator/komatsu_komatsu-alternator-pc200-8-parts--600-861-3420e-_full07-removebg-preview_zgjv1z.png",
+        "createdAt": "2023-08-15T00:00:00Z",
+        "updatedAt": "2023-08-15T00:00:00Z"
+    },
+    {
+        "id": 20,
+        "name": "Turbocharger",
+        "image": "https://res.cloudinary.com/dcbryptkx/image/upload/v1721374742/cp-indoteknik-v3/productsTurbocharger/kkk_truck_turbocharger-removebg-preview_yx4lpg.png",
         "createdAt": "2023-08-15T00:00:00Z",
         "updatedAt": "2023-08-15T00:00:00Z"
     }
-  ]
+]

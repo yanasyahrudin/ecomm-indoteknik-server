@@ -6,7 +6,7 @@ const baseUrl = 'https://indoteknikserver-732012365989.herokuapp.com'; // Ubah d
 class ProductController {
     static async getAllProducts(req, res, next) {
         try {
-            const hiddenProductIds = [1, 2, 3, 82, 83, 191];
+            const hiddenProductIds = [];
 
             const products = await Product.findAll(
                 {

@@ -1,16 +1,133 @@
 [
   {
-    "name": "Type 1",
+    "id": 1,
+    "name": "Pump Assy",
     "createdAt": "2023-07-14T00:00:00Z",
     "updatedAt": "2023-07-14T00:00:00Z"
   },
   {
-    "name": "Type 2",
+    "id": 2,
+    "name": "Governor",
     "createdAt": "2023-07-14T00:00:00Z",
     "updatedAt": "2023-07-14T00:00:00Z"
   },
   {
-    "name": "Type 3",
+    "id": 3,
+    "name": "Delivery Valve",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Plunger",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Nozzle Assy",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Nozzle FIP",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Supply Pump Assy",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Rotor Set Feed Pump",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Camshaft Supply Pump",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Sensor Temperature",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Injector Assy",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Solenoid",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Valve Seat",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Dry Charged",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Maintenance Free",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Brake Disc",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Brake Pad",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "name": "ECU",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Sensor MAP",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Sensor Limiter",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "name": "Nozzle Tester",
+    "createdAt": "2023-07-14T00:00:00Z",
+    "updatedAt": "2023-07-14T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "name": "Common Rail CRC Tester",
     "createdAt": "2023-07-14T00:00:00Z",
     "updatedAt": "2023-07-14T00:00:00Z"
   }
