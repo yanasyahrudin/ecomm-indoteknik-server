@@ -16,7 +16,7 @@ class MidtransController {
       let temp = []
       const user = await User.findByPk(req.user.id);
       let snap = new midtransClient.Snap({
-        isProduction: true,
+        isProduction: false,
         serverKey: midtransKeyDonik,
       });
 
