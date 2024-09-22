@@ -3,6 +3,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 const express = require('express')
+const bodyParser = require('body-parser');
 const app = express()
 const port = process.env.PORT || 3100
 const cors = require('cors')
@@ -10,8 +11,8 @@ const router = require('./routes');
 const errorHandler = require('./middlewares/errorHandler');
 
 app.use(cors())
-app.use(express.urlencoded({ extended: true }));
-app.use(express.json())
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/', router)
 app.use(errorHandler)
 app.use('/images', express.static('images'));

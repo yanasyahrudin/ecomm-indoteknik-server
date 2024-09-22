@@ -1,7 +1,6 @@
 const { verifyToken } = require("../helpers/jwt");
 const {
   User,
-  Product,
   SuperAdmin,
   AdminSeller,
   WarehouseAdmin,
